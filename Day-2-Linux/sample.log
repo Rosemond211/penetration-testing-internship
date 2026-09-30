@@ -1,0 +1,22 @@
+INFO User authentication service started
+INFO Web server started successfully
+INFO Database connection established
+WARNING High memory usage detected
+INFO User john logged in
+FAILED LOGIN Invalid password for user admin
+INFO File backup completed
+ERROR Database connection timeout
+INFO User mary logged in
+WARNING Disk usage reached 80 percent
+FAILED LOGIN Invalid password for user test
+INFO Security scan started
+ERROR Failed to connect to database
+INFO Security scan completed
+WARNING Unusual network traffic detected
+FAILED LOGIN Invalid password for user admin
+INFO System update check completed
+ERROR Application service stopped unexpectedly
+INFO Backup process started
+FAILED LOGIN Invalid password for user guest
+WARNING CPU usage is high
+INFO Backup process completed

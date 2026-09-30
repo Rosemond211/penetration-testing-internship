@@ -1,0 +1,5 @@
+web-lab - Fictional training host used for web application testing.
+
+linux-lab - Fictional Linux host used for practicing Linux administration and security testing.
+
+windows-lab - Fictional Windows host used for practicing Windows security assessment.

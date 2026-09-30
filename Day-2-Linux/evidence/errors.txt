@@ -1,0 +1,3 @@
+ERROR Database connection timeout
+ERROR Failed to connect to database
+ERROR Application service stopped unexpectedly

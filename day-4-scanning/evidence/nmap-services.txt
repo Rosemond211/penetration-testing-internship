@@ -1,0 +1,11 @@
+# Nmap 7.94SVN scan initiated Thu Oct  1 15:47:35 2026 as: nmap -sV -p 2000,2222 -oN day-4-scanning/evidence/nmap-services.txt 127.0.0.1
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000065s latency).
+
+PORT     STATE SERVICE VERSION
+2000/tcp open  ssh     OpenSSH 8.9p1 Ubuntu 3ubuntu0.17 (Ubuntu Linux; protocol 2.0)
+2222/tcp open  ssh     OpenSSH 9.6p1 Ubuntu 3ubuntu13.19 (Ubuntu Linux; protocol 2.0)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Oct  1 15:47:35 2026 -- 1 IP address (1 host up) scanned in 0.20 seconds

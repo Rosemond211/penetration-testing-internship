@@ -1,0 +1,9 @@
+# Nmap 7.94SVN scan initiated Thu Oct  1 15:47:18 2026 as: nmap -oN day-4-scanning/evidence/basic-scan.txt 127.0.0.1
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00012s latency).
+Not shown: 998 closed tcp ports (conn-refused)
+PORT     STATE SERVICE
+2000/tcp open  cisco-sccp
+2222/tcp open  EtherNetIP-1
+
+# Nmap done at Thu Oct  1 15:47:18 2026 -- 1 IP address (1 host up) scanned in 0.05 seconds

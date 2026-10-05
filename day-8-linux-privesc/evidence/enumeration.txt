@@ -1,0 +1,22 @@
+Day 8 Linux Privilege Escalation Enumeration
+
+whoami:
+codespace
+
+id:
+uid=1000(codespace) gid=1000(codespace)
+
+OS:
+Ubuntu 24.04.5 LTS
+
+Sudo:
+(root) NOPASSWD: ALL
+
+SUID:
+Standard privileged binaries identified, including passwd, chsh, mount, su and sudo.
+
+Cron:
+e2scrub_all present in /etc/cron.d and owned by root.
+
+System timers:
+systemd is not running in the Codespaces container.
